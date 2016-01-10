@@ -1,0 +1,7 @@
+[package]
+name = "philosophers"
+version = "0.1.0"
+authors = ["Kevin Gori <kgori@ebi.ac.uk>"]
+
+[dependencies]
+rand = "0.3.0"
